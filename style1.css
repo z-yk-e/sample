@@ -1,0 +1,29 @@
+  .test1{
+        color: ivory;
+        background: linear-gradient(
+            90deg,
+            rgba(2,0,36,1) 0%,
+            rgba(9,9,121,1) 35%,
+            rgba(0,212,255,1) 100%
+            );
+        font-size: 50px;
+        font-family: cursive;
+        text-align: center;
+        width: 75%;
+        height: 300px;
+        margin-top: 25px ;
+        margin-left: auto;
+        margin-right:auto;
+        padding-top: 100px;
+        border-radius: 100%;
+        font-weight: 10px;
+       
+        box-shadow: 0px 0px 5px 0px #0fee34bf
+        
+    }   
+    .danger
+    {
+     color: rgb(10, 10, 138);
+     
+     margin-top: 100px;
+    }
